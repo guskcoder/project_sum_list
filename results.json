@@ -1,0 +1,22 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "/Users/gustavo/Elixir/Rocketseat/exercicios/project_sum_list/test/list_lenght_test.exs",
+      "line": 5,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 count list elements"
+    },
+    {
+      "describe": "call/1",
+      "file": "/Users/gustavo/Elixir/Rocketseat/exercicios/project_sum_list/test/list_lenght_test.exs",
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 passing an empty list"
+    }
+  ],
+  "skiped": []
+}
